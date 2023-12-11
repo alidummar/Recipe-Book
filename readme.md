@@ -1,6 +1,6 @@
 # Recipe Book
 
-Welcome to the Recipe Book project! This simple HTML file provides the structure for a recipe book website. Users can navigate through different recipes listed in the main section.
+Welcome to the Recipe Book project! The sipmle HTML files provides the structure for a recipe book website. Users can navigate through different recipes listed in the main section.
 ![Image ](./Screenshot%202023-12-11%20at%203.07.13 PM.png)
 
 
@@ -15,20 +15,11 @@ Welcome to the Recipe Book project! This simple HTML file provides the structure
 
 ## Usage
 
-1. Clone the repository or download the HTML file.
-2. Open the `index.html` file in a web browser to view the Recipe Book.
+Clone the repository 
 
 ## Structure
+Here are the recipes structured 
 
-The HTML file (`index.html`) is structured as follows:
-
-- **Document Type Declaration**: `<!DOCTYPE html>` defines the document type and version of HTML.
-- **HTML Root Element**: The `<html>` element is the root element of the document.
-- **Head Section**: The `<head>` section contains meta-information about the document, such as character set, viewport settings, stylesheets, and the title.
-- **Body Section**: The `<body>` section contains the content of the document.
-  - **Header**: The `<header>` contains the main heading of the page.
-  - **Main Section**: The `<main>` section contains the main content of the page.
-    - **Recipe List Section**: The `<section class="recipe-list">` contains a list of recipes with links to individual recipe pages.
       - **Recipes**:
         - [Spaghetti](recipe.html#spaghetti)
         - [Pancakes](recipe.html#pancakes)
@@ -42,23 +33,21 @@ The HTML file (`index.html`) is structured as follows:
 
 ## Styles
 
-The styles for this HTML file are specified in an external stylesheet (`styles.css`). You can customize the appearance of the Recipe Book by modifying this stylesheet.
+The styles for the HTML files are specified in an external stylesheet (`styles.css`). 
 
 ## Contributing
 
-Feel free to contribute to the project by improving the HTML structure, adding new recipes, or enhancing the styling. Create a fork of the repository, make your changes, and submit a pull request.
+Feel free to contribute to the project!!
 
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code as per the terms of the license.
+This project is licensed under the [MIT License](LICENSE). 
 
 ## Demo
 
 Check out the video demo of the Recipe Book: Click on the Watch the Video to pull up the video on youtube.
 
 [Watch the Video](http://www.youtube.com/watch?v=c8_mw0I9ZVA)
-
-
 
 Happy cooking! 🍳🥗🍰
