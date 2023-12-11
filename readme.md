@@ -1,6 +1,8 @@
 # Recipe Book
 
 Welcome to the Recipe Book project! This simple HTML file provides the structure for a recipe book website. Users can navigate through different recipes listed in the main section.
+![Image ](./Screenshot%202023-12-11%20at%203.07.13 PM.png)
+
 
 ## Table of Contents
 
@@ -53,8 +55,10 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## Demo
 
-Check out the video demo of the Recipe Book:
+Check out the video demo of the Recipe Book: Click on the Watch the Video to pull up the video on youtube.
 
-[![Recipe Book Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+[Watch the Video](http://www.youtube.com/watch?v=c8_mw0I9ZVA)
+
+
 
 Happy cooking! 🍳🥗🍰
